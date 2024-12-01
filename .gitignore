@@ -1,0 +1,5 @@
+*.fsdb
+*.vcd
+*.log
+*.out
+*.f
